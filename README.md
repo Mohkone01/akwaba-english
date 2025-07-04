@@ -6,7 +6,7 @@
 
 **Une application d'apprentissage d'anglais révolutionnaire avec un design authentiquement humain**
 
-[![Live Demo](https://img.shields.io/badge/🌐_DÉMO_LIVE-lingualeap.vercel.app-blue?style=for-the-badge)](https://lingualeap.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_DÉMO_LIVE-lingualeap.vercel.app-blue?style=for-the-badge)](https://lingualeap-apps.vercel.app/)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/Mohkone01/lingualeap-app)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
