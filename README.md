@@ -114,7 +114,7 @@ LinguaLeap est une application interactive d'apprentissage de l'anglais qui prop
 
 L'application est déployée automatiquement sur Vercel à partir du repository privé `lingualeap-app`.
 
-**🔗 Lien de l'application** : [Accéder à LinguaLeap](https://lingualeap-app.vercel.app)
+**🔗 Lien de l'application** : [Accéder à LinguaLeap](https://lingualeap-apps.vercel.app/)
 
 ## 📊 Statistiques du Projet
 
@@ -154,4 +154,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ⭐ **N'hésitez pas à donner une étoile si ce projet vous plaît !**
 
-🚀 **Commencez votre apprentissage dès maintenant** : [LinguaLeap App](https://lingualeap-app.vercel.app)
+🚀 **Commencez votre apprentissage dès maintenant** : [LinguaLeap App](https://lingualeap-apps.vercel.app/)
