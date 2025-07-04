@@ -10,7 +10,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/Mohkone01/lingualeap-app)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
-### 🎯 **[➡️ ESSAYER LA DÉMO MAINTENANT](https://lingualeap.vercel.app)**
+### 🎯 **[➡️ ESSAYER LA DÉMO MAINTENANT](https://lingualeap-apps.vercel.app/)**
 
 ![Écran d'accueil LinguaLeap](screenshots/home-screen.png)
 
@@ -93,7 +93,7 @@ Analysez et comprenez la structure des phrases anglaises.
 ## 🎯 Démo Live
 
 ### 🌐 **Version Web**
-**[lingualeap.vercel.app](https://lingualeap.vercel.app)**
+**[lingualeap.vercel.app](https://lingualeap-apps.vercel.app/)**
 
 *Testez directement dans votre navigateur, aucune installation requise !*
 
@@ -172,6 +172,6 @@ MIT License - Libre d'utilisation et de modification
 [![GitHub stars](https://img.shields.io/github/stars/Mohkone01/lingualeap-showcase?style=social)](https://github.com/Mohkone01/lingualeap-showcase)
 [![GitHub forks](https://img.shields.io/github/forks/Mohkone01/lingualeap-showcase?style=social)](https://github.com/Mohkone01/lingualeap-showcase)
 
-**[🚀 ESSAYER MAINTENANT](https://lingualeap.vercel.app) | [📖 DOCUMENTATION](https://github.com/Mohkone01/lingualeap-app) | [🐛 SIGNALER UN BUG](https://github.com/Mohkone01/lingualeap-app/issues)**
+**[🚀 ESSAYER MAINTENANT](https://lingualeap-apps.vercel.app/) | [📖 DOCUMENTATION](https://github.com/Mohkone01/lingualeap-app) | [🐛 SIGNALER UN BUG](https://github.com/Mohkone01/lingualeap-app/issues)**
 
 </div>
