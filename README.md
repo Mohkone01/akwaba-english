@@ -1,215 +1,234 @@
-# 🚀 LinguaLeap - Sautez dans l'Anglais ! (Version Enrichie)
+# 🇨🇮 Akwaba English
 
 <div align="center">
 
-![LinguaLeap Logo](https://img.shields.io/badge/LinguaLeap-🦉-brightgreen?style=for-the-badge)
+![Akwaba English - Écran d'Accueil](screenshots/accueil.png)
 
-**Une application d'apprentissage d'anglais révolutionnaire avec un design authentiquement humain**
+**Akwaba** signifie "Bienvenue" en langues ivoiriennes
 
-[![Live Demo](https://img.shields.io/badge/🌐_DÉMO_LIVE-lingualeap.vercel.app-blue?style=for-the-badge)](https://lingualeap.vercel.app)
-[![Version](https://img.shields.io/badge/version-2.0.0_ENRICHIE-brightgreen?style=for-the-badge)](https://github.com/Mohkone01/lingualeap-app)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+*Application d'apprentissage de l'anglais 100% ivoirienne avec design authentique, mascotte éléphant et pédagogie adaptée*
+
+[![Version](https://img.shields.io/badge/version-2.0.0-ff8c42.svg)](https://github.com/votre-username/akwaba-english)
+[![License](https://img.shields.io/badge/license-MIT-228B22.svg)](LICENSE)
+[![Vercel](https://img.shields.io/badge/deployed-vercel-000000.svg)](https://akwaba-english.vercel.app)
+[![Made in Côte d'Ivoire](https://img.shields.io/badge/made%20in-Côte%20d'Ivoire-ff8c42.svg)](https://en.wikipedia.org/wiki/Ivory_Coast)
+
+[🌐 **ESSAYER MAINTENANT**](https://akwaba-english.vercel.app) • [📱 Télécharger](https://github.com/votre-username/akwaba-english/releases) • [📚 Documentation](https://github.com/votre-username/akwaba-english/blob/main/GUIDE_MODIFICATION_COMPLET.md)
 
 </div>
 
-## ✨ Aperçu
+---
 
-LinguaLeap transforme l'apprentissage de l'anglais en une expérience amusante et engageante. Contrairement aux applications trop "parfaites", LinguaLeap adopte un design authentiquement humain avec des imperfections volontaires qui lui donnent une âme.
+## 🎯 **Pourquoi Akwaba English ?**
 
-### 🎯 **[➡️ ESSAYER LA DÉMO MAINTENANT](https://lingualeap.vercel.app)**
+### 🇨🇮 **100% Ivoirien, 100% Authentique**
+- **Design culturel** inspiré des motifs Baoulé et couleurs du drapeau
+- **Mascotte éléphant** dessinée à la main avec style artisanal
+- **Hospitalité ivoirienne** : "Akwaba" = Bienvenue dans votre apprentissage
+- **Pédagogie adaptée** aux apprenants francophones d'Afrique de l'Ouest
 
-## 🚀 **NOUVEAUTÉS VERSION 2.0 - ENRICHISSEMENT MASSIF !**
+### 🎓 **Méthode Pédagogique Unique**
+- **Combo Pédagogique Parfait** : Questions FR→Réponses EN / Questions EN→Réponses FR
+- **22 Leçons Progressives** de salutations aux concepts avancés
+- **400+ Exercices Interactifs** avec 4 types d'activités
+- **Système de Validation Intelligent** avec corrections détaillées
 
-### 📊 **Contenu Considérablement Enrichi**
-- **+150 nouvelles questions** ajoutées aux leçons 1-12
-- **242 questions totales** (vs 92 originales)
-- **+163% d'augmentation** du contenu pédagogique
-- **100% conforme** aux 14 règles du COMBO PÉDAGOGIQUE PARFAIT
+### 🎮 **Gamification Motivante**
+- **Système XP** avec récompenses et niveaux
+- **Cœurs de Vie** pour maintenir la motivation
+- **20+ Succès à Débloquer** pour célébrer les progrès
+- **Statistiques Détaillées** pour suivre l'évolution
 
-### 🎓 **Nouvelles Leçons Avancées (13-19)**
-- **Leçon 13** : 🌍 Enjeux Environnementaux
-- **Leçon 14** : 🎨 Arts & Culture
-- **Leçon 15** : 🧠 Philosophie & Pensée Critique
-- **Leçon 16** : 🌌 Astrophysique & Cosmologie
-- **Leçon 17** : 🧬 Biotechnologie & Génétique
-- **Leçon 18** : 🌐 Relations Internationales
-- **Leçon 19** : 🧠 Neurosciences & Cognition
+---
 
-### 🎯 **Améliorations Techniques**
-- **Distracteurs intelligents** : Options de réponses plausibles et captivantes
-- **Élimination des doublons** : Mots uniques dans les exercices de traduction
-- **Cohérence logique** : Toutes les réponses utilisent uniquement les mots disponibles
-- **Qualité pédagogique** : Respect scrupuleux des règles d'apprentissage
+## 🖼️ **Découvrez l'Interface**
 
-## 🌟 Fonctionnalités Principales
+### 🏠 Écran d'Accueil - Design Ivoirien Authentique
+![Écran d'Accueil](screenshots/accueil.png)
+*Interface principale avec mascotte éléphant, couleurs du drapeau ivoirien et esthétique artisanale*
 
-### 🎨 **Design Authentiquement Humain**
-- Esthétique organique et artisanale
-- Coins arrondis irréguliers
-- Micro-imperfections volontaires
-- Animations rebondissantes naturelles
+### 📚 Sélection des Leçons - Navigation Intuitive
+![Interface Leçons](screenshots/interface-lecons.png)
+*Grille de leçons avec progression visuelle, design organique et motifs culturels*
 
-### 🧠 **Système d'Apprentissage Progressif**
-- **19 Leçons** : De débutant à expert avancé
-- **4 Types d'Exercices** : QCM, Traduction, Mot-Image, Analyse Contextuelle
-- **Système de Cœurs** : 5 vies maximum
-- **Points XP** : Accumulation d'expérience
+### 🎯 Exercices Interactifs - Apprentissage Engageant
+![Exercices](screenshots/interface-questions.png)
+*Questions à choix multiples avec design épuré, mascotte encourageante et interface claire*
 
-### 🦉 **Mascotte Attachante**
-- Hibou dessiné à la main
-- Animations organiques
-- Bulles de dialogue encourageantes
-- Personnalité expressive
+### ✅ Corrections Intelligentes - Feedback Constructif
+![Corrections](screenshots/interface-questions-2.png)
+*Système de correction avec feedback immédiat, explications détaillées et encouragements*
 
-### 📱 **100% Responsive**
-- **Mobile-First** : Interface optimisée touch-friendly
-- **Tablette** : Layout adaptatif intelligent
-- **Desktop** : Expérience immersive complète
-- **Multi-orientation** : Portrait et paysage
+---
 
-## 🎮 Types d'Exercices
+## 🚀 **Essayer Immédiatement**
 
-### 1. 📝 **Traduction de Phrases**
-Glissez-déposez des mots pour former des phrases anglaises correctes.
-- **Mots uniques** : Élimination des doublons problématiques
-- **Validation intelligente** : Cohérence logique garantie
+### 🌐 **Version Web (Recommandée)**
+**[👉 LANCER AKWABA ENGLISH](https://akwaba-english.vercel.app)**
+- ✅ Aucune installation requise
+- ✅ Fonctionne sur tous les navigateurs
+- ✅ Responsive mobile et desktop
+- ✅ Mise à jour automatique
 
-### 2. ❓ **Questions à Choix Multiples**
-Choisissez la bonne réponse parmi 4 options avec feedback visuel immédiat.
-- **Distracteurs plausibles** : Options captivantes qui peuvent vraiment tromper
-- **Apprentissage par l'erreur** : Corrections détaillées
+### 📱 **Installation Mobile (PWA)**
+1. Ouvrir [akwaba-english.vercel.app](https://akwaba-english.vercel.app)
+2. Cliquer sur "Ajouter à l'écran d'accueil"
+3. Utiliser comme une app native !
 
-### 3. 🖼️ **Association Mot-Image**
-Associez les mots anglais aux images correspondantes.
+### 💻 **Version Desktop**
+```bash
+# Télécharger depuis GitHub Releases
+# Windows: akwaba-english-setup.exe
+# macOS: akwaba-english.dmg
+# Linux: akwaba-english.AppImage
+```
 
-### 4. 🔍 **Analyse Contextuelle**
-Analysez et comprenez la structure des phrases anglaises dans leur contexte.
+---
 
-## 📚 Contenu Pédagogique Détaillé
+## 🎨 **Design System Ivoirien**
 
-### 🎯 **Leçons 1-12 (Enrichies)**
-- **Leçon 1** : 👋 Salutations (18 questions)
-- **Leçon 2** : 🐾 Animaux (18 questions)
-- **Leçon 3** : 🏗️ Architecture (18 questions)
-- **Leçon 4** : 🚗 Transport (18 questions)
-- **Leçon 5** : 🌈 Couleurs (18 questions)
-- **Leçon 6** : 🔢 Mathématiques (35 questions)
-- **Leçon 7** : 👨‍👩‍👧‍👦 Famille (19 questions)
-- **Leçon 8** : 🍽️ Gastronomie (20 questions)
-- **Leçon 9** : 🌤️ Météorologie (21 questions)
-- **Leçon 10** : 📚 Littérature (21 questions)
-- **Leçon 11** : 😊 Émotions & Psychologie (22 questions)
-- **Leçon 12** : 🚀 Innovation & Technologie (16 questions)
+### 🎨 **Palette Authentique**
+- **🟠 Orange Ivoirien** : `#ff8c42` - Couleur principale du drapeau
+- **⚪ Blanc Pur** : `#fefefe` - Pureté et clarté
+- **🟢 Vert Ivoirien** : `#228B22` - Nature et croissance
+- **🤎 Terre de Côte d'Ivoire** : `#8B4513` - Authenticité culturelle
 
-### 🌟 **Leçons 13-19 (Nouvelles)**
-- **Leçon 13** : 🌍 Enjeux Environnementaux (15 questions)
-- **Leçon 14** : 🎨 Arts & Culture (15 questions)
-- **Leçon 15** : 🧠 Philosophie & Pensée Critique (30 questions)
-- **Leçon 16** : 🌌 Astrophysique & Cosmologie (35 questions)
-- **Leçon 17** : 🧬 Biotechnologie & Génétique (20 questions)
-- **Leçon 18** : 🌐 Relations Internationales (15 questions)
-- **Leçon 19** : 🧠 Neurosciences & Cognition (15 questions)
+### 🎭 **Éléments Visuels**
+- **Bordures Organiques** : Coins arrondis irréguliers pour un style artisanal
+- **Ombres Douces** : Effets subtils inspirés de la lumière tropicale
+- **Animations Fluides** : Mouvements naturels comme la brise ivoirienne
+- **Typographie Chaleureuse** : Moderne avec touches d'imperfection charmante
 
-## 🎨 Captures d'Écran
+---
 
-### 🏠 Écran d'Accueil
-![Accueil](screenshots/ACCUEIL.png)
-*Mascotte hibou avec sélection de leçons progressives*
+## 🏆 **Fonctionnalités Avancées**
 
-### 📚 Interface Cartes Leçons
-![Interface Cartes](screenshots/INTERFACE_CARTES_LECONS.png)
-*Grille de leçons avec progression visuelle*
+### 📖 **Système Pédagogique Intelligent**
+- **Adaptation Automatique** : Difficulté qui s'ajuste au niveau
+- **Mémorisation Espacée** : Révision optimisée des concepts
+- **Analyse des Erreurs** : Identification des points faibles
+- **Progression Personnalisée** : Parcours adapté à chaque apprenant
 
-### 🎯 Interface Questions
-![Interface Questions](screenshots/INTERFACE_QUESTIONS.png)
-*Exercices interactifs avec feedback immédiat*
+### 🔊 **Audio et Prononciation**
+- **Prononciation Native** : Enregistrements de qualité professionnelle
+- **Effets Sonores** : Feedback audio pour chaque interaction
+- **Contrôles Personnalisables** : Volume et préférences audio
+- **Mode Silencieux** : Apprentissage discret possible
 
-### 📱 Interface Questions 2
-![Interface Questions 2](screenshots/INTERFACE_QUESTIONS_2.png)
-*Variété d'exercices et types de questions*
+### 📊 **Suivi et Statistiques**
+- **Tableau de Bord** : Vue d'ensemble des progrès
+- **Graphiques de Performance** : Évolution dans le temps
+- **Objectifs Quotidiens** : Motivation par la routine
+- **Historique Complet** : Toutes les sessions enregistrées
 
-## 🛠️ Technologies
+---
 
-- **Frontend** : React 18 + TypeScript
-- **Animations** : Framer Motion
-- **Build** : Vite
-- **Déploiement** : Vercel
-- **Desktop** : Electron (version séparée)
+## 🌍 **Impact et Mission**
 
-## 🎯 Démo Live
+### 🎯 **Notre Vision**
+Démocratiser l'apprentissage de l'anglais en Afrique de l'Ouest avec une approche culturellement adaptée et technologiquement avancée.
 
-### 🌐 **Version Web**
-**[lingualeap.vercel.app](https://lingualeap.vercel.app)**
+### 📈 **Objectifs**
+- **Accessibilité** : Gratuit et disponible partout
+- **Qualité** : Standards pédagogiques internationaux
+- **Culture** : Préservation de l'identité ivoirienne
+- **Innovation** : Technologies modernes au service de l'éducation
 
-*Testez directement dans votre navigateur, aucune installation requise !*
+### 🤝 **Communauté**
+- **Open Source** : Code ouvert pour la collaboration
+- **Feedback Utilisateurs** : Amélioration continue
+- **Partenariats Éducatifs** : Collaboration avec les institutions
+- **Expansion Régionale** : Adaptation à d'autres pays africains
 
-## 🏆 Pourquoi LinguaLeap ?
+---
 
-### ✅ **Ce que nous FAISONS**
-- Design chaleureux et humain
-- Apprentissage par l'erreur sans frustration
-- Feedback pédagogique détaillé
-- Progression motivante avec récompenses
-- Interface intuitive et amusante
-- **Contenu riche et varié** (500+ questions)
-- **Distracteurs intelligents** qui challengent vraiment
+## 🛠️ **Technologies Utilisées**
 
-### ❌ **Ce que nous ÉVITONS**
-- Design trop parfait et froid
-- Blocage en cas d'erreur
-- Interface robotique
-- Apprentissage stressant
-- Expérience frustrante
-- **Options de réponses évidentes**
-- **Doublons et incohérences**
+### 🎨 **Frontend**
+- **React 18** : Interface utilisateur moderne
+- **TypeScript** : Code robuste et maintenable
+- **Framer Motion** : Animations fluides
+- **CSS3** : Design responsive et accessible
 
-## 📊 Statistiques Impressionnantes
+### ⚡ **Build et Déploiement**
+- **Vite** : Build ultra-rapide
+- **Vercel** : Déploiement automatique
+- **Electron** : Applications desktop
+- **PWA** : Installation mobile
 
-- **19 Leçons** progressives (vs 12 originales)
-- **500+ Exercices** variés (vs 92 originales)
-- **+163% d'augmentation** du contenu
-- **100% Responsive** sur tous appareils
-- **0 Téléchargement** requis (version web)
-- **Gratuit** et open source
-- **14 Règles Pédagogiques** respectées à 100%
+### 🔧 **Outils de Développement**
+- **ESLint** : Qualité du code
+- **Prettier** : Formatage automatique
+- **Git** : Contrôle de version
+- **GitHub Actions** : CI/CD automatisé
 
-## 🎓 Combo Pédagogique Parfait
+---
 
-### 🧠 **Règles d'Apprentissage Optimisées**
-- **Questions FR → Réponses EN** : Apprentissage du vocabulaire
-- **Questions EN → Réponses FR** : Compréhension et assimilation
-- **Échange linguistique constant** : Pas de stagnation monolingue
-- **Distracteurs plausibles** : Challenge intellectuel réel
+## 🤝 **Contribuer au Projet**
 
-## 🤝 Contribution
+### 🌟 **Comment Aider**
+1. **⭐ Star le projet** pour montrer votre soutien
+2. **🐛 Signaler des bugs** via les Issues GitHub
+3. **💡 Proposer des améliorations** dans les Discussions
+4. **🔧 Contribuer au code** avec des Pull Requests
+5. **📢 Partager** avec votre réseau
 
-Ce projet est open source ! Vous pouvez :
-- 🐛 Signaler des bugs
-- 💡 Proposer des améliorations
-- 🌟 Donner une étoile si vous aimez
-- 📢 Partager avec vos amis
+### 👥 **Types de Contributions**
+- **Développement** : Nouvelles fonctionnalités, corrections
+- **Design** : Améliorations visuelles, UX/UI
+- **Contenu** : Nouvelles leçons, exercices, traductions
+- **Documentation** : Guides, tutoriels, exemples
+- **Tests** : Assurance qualité, feedback utilisateur
 
-## 📞 Contact
+### 📋 **Guidelines**
+- Respecter le style de code existant
+- Tester toutes les modifications
+- Documenter les nouvelles fonctionnalités
+- Suivre les conventions de commit
 
-- **Développeur** : [Mohkone01](https://github.com/Mohkone01)
-- **Email** : konmohamed149@yahoo.com
-- **GitHub** : [Repository Principal](https://github.com/Mohkone01/lingualeap-app)
+---
 
-## 📄 License
+## 📞 **Support et Contact**
 
-MIT License - Libre d'utilisation et de modification
+### 🆘 **Besoin d'Aide ?**
+- **📚 Documentation** : [Guide Complet](GUIDE_MODIFICATION_COMPLET.md)
+- **🐛 Bugs** : [GitHub Issues](https://github.com/votre-username/akwaba-english/issues)
+- **💬 Discussions** : [GitHub Discussions](https://github.com/votre-username/akwaba-english/discussions)
+- **📧 Email** : support@akwaba-english.com
+
+### 🌐 **Réseaux Sociaux**
+- **Twitter** : [@AkwabaEnglish](https://twitter.com/AkwabaEnglish)
+- **LinkedIn** : [Akwaba English](https://linkedin.com/company/akwaba-english)
+- **Facebook** : [Akwaba English](https://facebook.com/AkwabaEnglish)
+
+---
+
+## 📄 **Licence et Crédits**
+
+### 📜 **Licence**
+Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
+
+### 🙏 **Remerciements**
+- **Communauté Ivoirienne** pour l'inspiration culturelle
+- **Artistes Locaux** pour les motifs traditionnels Baoulé
+- **Éducateurs** pour les retours pédagogiques précieux
+- **Développeurs Open Source** pour les outils fantastiques
+- **Beta Testeurs** pour leur feedback constructif
 
 ---
 
 <div align="center">
 
-**🦉 Fait avec ❤️ pour l'apprentissage de l'anglais**
+## 🇨🇮 **Akwaba dans l'apprentissage de l'anglais !** 🐘
 
-*Transformons l'éducation, une leçon à la fois !*
+*Fait avec ❤️ en Côte d'Ivoire pour l'Afrique et le monde*
 
-[![GitHub stars](https://img.shields.io/github/stars/Mohkone01/lingualeap-showcase?style=social)](https://github.com/Mohkone01/lingualeap-showcase)
-[![GitHub forks](https://img.shields.io/github/forks/Mohkone01/lingualeap-showcase?style=social)](https://github.com/Mohkone01/lingualeap-showcase)
+**[🚀 COMMENCER MAINTENANT](https://akwaba-english.vercel.app)**
 
-**[🚀 ESSAYER MAINTENANT](https://lingualeap.vercel.app) | [📖 DOCUMENTATION](https://github.com/Mohkone01/lingualeap-app) | [🐛 SIGNALER UN BUG](https://github.com/Mohkone01/lingualeap-app/issues)**
+[⭐ Star](https://github.com/votre-username/akwaba-english) • [🐛 Bug Report](https://github.com/votre-username/akwaba-english/issues) • [💡 Feature Request](https://github.com/votre-username/akwaba-english/discussions) • [📧 Contact](mailto:support@akwaba-english.com)
+
+---
+
+*"L'éducation est l'arme la plus puissante pour changer le monde"* - Nelson Mandela
 
 </div>
