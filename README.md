@@ -8,7 +8,7 @@
 
 *Application d'apprentissage de l'anglais 100% ivoirienne avec design authentique, mascotte éléphant et pédagogie adaptée*
 
-[![Version](https://img.shields.io/badge/version-2.0.0-ff8c42.svg)](https://github.com/votre-username/akwaba-english)
+[![Version](https://img.shields.io/badge/version-2.0.0-ff8c42.svg)](https://github.com/Mohkone01/akwaba-english)
 [![License](https://img.shields.io/badge/license-MIT-228B22.svg)](LICENSE)
 [![Vercel](https://img.shields.io/badge/deployed-vercel-000000.svg)](https://akwaba-english.vercel.app)
 [![Made in Côte d'Ivoire](https://img.shields.io/badge/made%20in-Côte%20d'Ivoire-ff8c42.svg)](https://en.wikipedia.org/wiki/Ivory_Coast)
@@ -173,7 +173,7 @@ Démocratiser l'apprentissage de l'anglais en Afrique de l'Ouest avec une approc
 ### 🆘 **Besoin d'Aide ?**
 - **📚 Documentation** : [Guide Complet](GUIDE_MODIFICATION_COMPLET.md)
 - **🐛 Bugs** : [GitHub Issues](https://github.com/votre-username/akwaba-english/issues)
-- **💬 Discussions** : [GitHub Discussions](https://github.com/votre-username/akwaba-english/discussions)
+- **💬 Discussions** : [GitHub Discussions](https://github.com/Mohkone01/akwaba-english/discussions)
 - **📧 Email** : konmohamed149@yahoo.com
 ---
 
