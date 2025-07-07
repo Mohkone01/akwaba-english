@@ -75,13 +75,6 @@
 2. Cliquer sur "Ajouter à l'écran d'accueil"
 3. Utiliser comme une app native !
 
-### 💻 **Version Desktop**
-```bash
-# Télécharger depuis GitHub Releases
-# Windows: akwaba-english-setup.exe
-# macOS: akwaba-english.dmg
-# Linux: akwaba-english.AppImage
-```
 
 ---
 
@@ -109,19 +102,6 @@
 - **Analyse des Erreurs** : Identification des points faibles
 - **Progression Personnalisée** : Parcours adapté à chaque apprenant
 
-### 🔊 **Audio et Prononciation**
-- **Prononciation Native** : Enregistrements de qualité professionnelle
-- **Effets Sonores** : Feedback audio pour chaque interaction
-- **Contrôles Personnalisables** : Volume et préférences audio
-- **Mode Silencieux** : Apprentissage discret possible
-
-### 📊 **Suivi et Statistiques**
-- **Tableau de Bord** : Vue d'ensemble des progrès
-- **Graphiques de Performance** : Évolution dans le temps
-- **Objectifs Quotidiens** : Motivation par la routine
-- **Historique Complet** : Toutes les sessions enregistrées
-
----
 
 ## 🌍 **Impact et Mission**
 
@@ -194,13 +174,7 @@ Démocratiser l'apprentissage de l'anglais en Afrique de l'Ouest avec une approc
 - **📚 Documentation** : [Guide Complet](GUIDE_MODIFICATION_COMPLET.md)
 - **🐛 Bugs** : [GitHub Issues](https://github.com/votre-username/akwaba-english/issues)
 - **💬 Discussions** : [GitHub Discussions](https://github.com/votre-username/akwaba-english/discussions)
-- **📧 Email** : support@akwaba-english.com
-
-### 🌐 **Réseaux Sociaux**
-- **Twitter** : [@AkwabaEnglish](https://twitter.com/AkwabaEnglish)
-- **LinkedIn** : [Akwaba English](https://linkedin.com/company/akwaba-english)
-- **Facebook** : [Akwaba English](https://facebook.com/AkwabaEnglish)
-
+- **📧 Email** : konmohamed149@yahoo.com
 ---
 
 ## 📄 **Licence et Crédits**
@@ -225,7 +199,7 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 
 **[🚀 COMMENCER MAINTENANT](https://akwaba-english.vercel.app)**
 
-[⭐ Star](https://github.com/votre-username/akwaba-english) • [🐛 Bug Report](https://github.com/votre-username/akwaba-english/issues) • [💡 Feature Request](https://github.com/votre-username/akwaba-english/discussions) • [📧 Contact](mailto:support@akwaba-english.com)
+[⭐ Star](https://github.com/votre-username/akwaba-english) • [🐛 Bug Report](https://github.com/votre-username/akwaba-english/issues) • [💡 Feature Request](https://github.com/votre-username/akwaba-english/discussions) • [📧 Contact](mailto:konmohamed149@yahoo.com)
 
 ---
 
