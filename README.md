@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Akwaba English - Écran d'Accueil](screenshots/accueil.png)
+![Akwaba English - Écran d'Accueil](screenshots/home-page.png)
 
 **Akwaba** signifie "Bienvenue" en langues ivoiriennes
 
@@ -44,7 +44,7 @@
 ## 🖼️ **Découvrez l'Interface**
 
 ### 🏠 Écran d'Accueil - Design Ivoirien Authentique
-![Écran d'Accueil](screenshots/accueil.png)
+![Écran d'Accueil](screenshots/home-page.png)
 *Interface principale avec mascotte éléphant, couleurs du drapeau ivoirien et esthétique artisanale*
 
 ### 📚 Sélection des Leçons - Navigation Intuitive
