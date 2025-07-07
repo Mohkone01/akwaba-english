@@ -13,7 +13,7 @@
 [![Vercel](https://img.shields.io/badge/deployed-vercel-000000.svg)](https://akwaba-english.vercel.app)
 [![Made in Côte d'Ivoire](https://img.shields.io/badge/made%20in-Côte%20d'Ivoire-ff8c42.svg)](https://en.wikipedia.org/wiki/Ivory_Coast)
 
-[🌐 **ESSAYER MAINTENANT**](https://akwaba-english.vercel.app) • [📱 Télécharger](https://github.com/votre-username/akwaba-english/releases) • [📚 Documentation](https://github.com/votre-username/akwaba-english/blob/main/GUIDE_MODIFICATION_COMPLET.md)
+[🌐 **ESSAYER MAINTENANT**](https://akwaba-english.vercel.app) • • 
 
 </div>
 
